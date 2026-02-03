@@ -11,3 +11,5 @@ resource "aws_nat_gateway" "nat" {
 		Name="nat-gatway"
 	}
 }
+
+#public ip subnet
