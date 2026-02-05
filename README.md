@@ -1,1 +1,2 @@
-first install the public one the install the private one both are linked to each other.
+ONLY VPC FOLDER
+you can create public and private subnets and launch muachine in each with only vpc-one-click-pub-private.
